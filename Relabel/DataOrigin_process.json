@@ -1,0 +1,158 @@
+[
+    {
+        "92": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "233": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "243": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "129": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "130": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "202": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "108": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "215": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "129": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "79": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "253": [
+            "Pedestrian",
+            "UnknownSmall",
+            "Bike",
+            "Car"
+        ]
+    },
+    {
+        "232": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "207": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "227": [
+            "Pedestrian",
+            "UnknownSmall",
+            "Car"
+        ]
+    },
+    {
+        "145": [
+            "Pedestrian",
+            "UnknownSmall"
+        ]
+    },
+    {
+        "72": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "221": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "236": [
+            "UnknownBig",
+            "Bike"
+        ]
+    },
+    {
+        "63": [
+            "UnknownBig",
+            "Bike"
+        ]
+    },
+    {
+        "92": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "152": [
+            "Pedestrian"
+        ]
+    },
+    {
+        "131": [
+            "Pedestrian"
+        ]
+    },
+    {
+        "49": [
+            "Pedestrian",
+            "UnknownSmall"
+        ]
+    },
+    {
+        "153": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "81": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "14": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "111": [
+            "UnknownSmall",
+            "Car"
+        ]
+    },
+    {
+        "145": [
+            "UnknownSmall"
+        ]
+    },
+    {
+        "90": [
+            "UnknownBig",
+            "UnknownSmall"
+        ]
+    }
+]
